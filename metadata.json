@@ -1,0 +1,5 @@
+{
+  "name": "Dr Shabeer's Laser Dentistry",
+  "description": "Premium Laser Dentistry and Periodontal care in Bengaluru by Dr. Shabeer Ahamed.",
+  "requestFramePermissions": ["geolocation"]
+}
